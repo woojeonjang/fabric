@@ -135,3 +135,5 @@ infoln "Setting anchor peer for org2..."
 setAnchorPeer 2
 
 successln "Channel '$CHANNEL_NAME' joined"
+
+##test commit
